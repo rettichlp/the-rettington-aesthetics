@@ -1,5 +1,5 @@
 {
-  "axiom.block_attributes.title": "§7Edit Block Attributes", 
+  "axiom.block_attributes.title": "§7Edit Block Attributes",
   "axiom.edit_display_entity.title": "§7Edit Display Entity",
   "axiom.create_display_entity.title": "§7Create Display Entity",
   "axiom.create_display_entity.item_display": "§7Item Display",
@@ -21,7 +21,7 @@
   "axiom.create_display_entity.block_brightness": "§7Block Brightness: %s",
   "axiom.create_display_entity.sky_brightness": "§7Sky Brightness: %s",
   "axiom.create_display_entity.shadow_radius": "§7Shadow Radius",
-  "axiom.colour_picker": "§7Color Picker",	
+  "axiom.colour_picker": "§7Color Picker",
   "axiom.color_picker": "§7Color Picker",
   "axiom.color_picker.full_cube_abbreviation": "F",
   "axiom.color_picker.solid_abbreviation": "S",
